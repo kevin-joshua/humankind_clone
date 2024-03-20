@@ -1,0 +1,45 @@
+
+.multi_img{
+  width: 1200px;
+  height: 600px;
+  margin: 80px 160px;
+  display: block;
+}
+.multi_header{
+  display: inline-block;
+  font-size: 32px;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  position: absolute;
+  top: 25px;
+  left: 250px;
+}
+.multi_desc{
+  position: absolute;
+  right: 300px;
+  display: inline-block;
+  font-size: 25px;
+  line-height: 25px;
+  font-weight: 500;
+ 
+}
+.header_{
+  display: inline-block;
+}
+._desc{
+  display: inline-block;
+
+}
+.content_wrap{
+  position: relative;
+  display: block;
+}
+.button_2{
+  position: absolute;
+  top: 200px;
+  left: 720px;
+}
+.multi_comp{
+  display: block;
+  height: 984px;
+}

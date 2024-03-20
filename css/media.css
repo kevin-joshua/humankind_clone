@@ -1,0 +1,51 @@
+.media_handle{
+  position: relative;
+}
+.main_cont_wrap{
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+.content_wrap_1{
+  position: relative;
+  width: 500px;
+}
+.logo_media{
+  height: 33px;
+  width: 32px;
+}
+.media_header{
+  display: inline-block;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+.desc_2{
+display: inline-block ;
+position: absolute;
+top: 50px;
+left: 0;
+}
+.links{
+  position: absolute;
+  top: 120px;
+  left: 0;
+}
+.button_3{
+  position: absolute;  
+  top: 170px;
+  left: -5px;
+}
+.desc_3{
+  position: absolute;
+  top: 100px;
+
+}
+.maya{
+  width: 750px;
+  height: 720px;
+  position: absolute;
+  right: 50px;
+}

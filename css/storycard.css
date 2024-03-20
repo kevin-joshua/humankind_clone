@@ -1,0 +1,35 @@
+.story_card_wrap{
+position: relative;
+
+}
+.story_img{
+  width: 1503.2px;
+  height: 941px;
+}
+.story_card{
+  position: absolute;
+  background-color: white;
+  top: 100px;
+  left: 100px;
+  padding: 50px;
+  border-radius: 10px;
+}
+.story_header{
+  font-size: 32px;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+  font-weight: 800;
+}
+.story_desc{
+  font-size: 19px;
+  line-height: 25px;
+  font-weight: 500;
+  margin-left: 0;
+  margin-bottom: 35px;
+}
+.story-gif_1{
+  position: absolute;
+  top: 200px;
+  right: 150px;
+  height: 734px;
+  width: 734px;
+}

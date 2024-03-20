@@ -1,0 +1,35 @@
+.hero_wrapper{
+height: 535px;
+width: 1413px;
+margin-top: 100px;
+}
+.hero_top{
+  position: relative;
+  object-fit: contain;
+  width: 1413px;
+  display: block;
+}
+.hero_bottom{
+  position: absolute;
+  margin-top: -246px;
+  object-fit: contain;
+  width: 1450px;
+  transform: translate(-0%, -0%);
+}
+.magical_box{
+  margin-left: 450px;
+}
+.lunch_play{
+  margin-left: 125px;
+}
+.white_button{
+  background-color: white;
+  border: solid;
+  border-radius: 30px;
+  padding: 16.4px 24.6px;
+  transition: box-shadow 0.15s;
+  font-weight: 800;
+}
+.white_button:hover{
+  box-shadow: -2px 2px 1px rgba(0, 0, 0, 1);
+}

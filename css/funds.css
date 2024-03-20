@@ -1,0 +1,94 @@
+.wrestle_box{
+ position: relative;
+margin: 50px;
+width: 1110px;
+height: 565px;
+
+border-color: black;
+border: solid;
+border-radius: 25px;
+transition: box-shadow 0.15s;
+margin-left: 190px;
+}
+.wrestle_box:hover{
+ 
+  box-shadow: -8px 8px 1px rgba(0, 0, 0, 1);
+}
+.content{
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 50px;
+ 
+}
+.fund_img{
+  position: absolute;
+  left: 10px;
+  height: 508px;
+  width: 508px;
+  margin: 25px;
+  border-radius: 15px;
+}
+.fund_header{
+
+  margin-top: 120px;
+  margin-bottom: 10px;
+  line-height: 45px;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+
+}
+.text_nobold{
+  font-size: 20px;
+  margin: 30px 0px;
+}
+.buttons{
+  display: inline-block;
+
+
+}
+.black_button{
+  background-color: black;
+  padding: 14.4px 22.6px;
+  color: white;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+  font-weight: 650;
+  font-size: 18px;
+  border:solid;
+  border-color: black;
+  border-radius: 35px;
+  transition: box-shadow 0.15s;
+
+}
+.black_button:hover{
+  background-color: rgb(216, 14, 14);
+  box-shadow: -3px 3px 1px rgba(0, 0, 0, 1);
+
+}
+.yellow_button{
+  background-color: rgb(241, 214, 11);
+  padding: 14.4px 22.6px;
+  font-family: Khula,Arial, Helvetica, sans-serif;
+  font-weight: 650;
+  font-size: 18px;
+  border-radius: 35px;
+  border-width: 6px;
+  border: solid;
+  border-color: rgb(255, 174, 0);
+  transition: box-shadow 0.15s;
+}
+.yellow_button:hover{
+  background-color: rgb(200, 232, 60);
+  box-shadow: -3px 3px 1px rgba(255, 174, 0, 1);
+}
+.white_button{
+  background-color: white;
+  border: solid;
+  border-radius: 30px;
+  padding: 16.4px 24.6px;
+  transition: box-shadow 0.15s;
+}
+.white_button:hover{
+  box-shadow: -2px 2px 1px rgba(0, 0, 0, 1);
+}
